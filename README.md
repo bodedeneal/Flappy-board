@@ -1,1 +1,1 @@
-bodedeneal.github.io/floppyboard
+https://bodedeneal.github.io/floppyboard
