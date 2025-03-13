@@ -1,1 +1,17 @@
+# Navigate to your local repository
+cd path/to/your/local/repository
 
+# Create the images directory
+mkdir images
+
+# Move the image file to the images directory
+mv flappy_atlas.png images/
+
+# Stage the changes
+git add images/flappy_atlas.png
+
+# Commit the changes
+git commit -m "Move flappy_atlas.png to images folder"
+
+# Push the changes to your GitHub repository
+git push origin main
